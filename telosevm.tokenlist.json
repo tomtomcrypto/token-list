@@ -20,6 +20,7 @@
       "symbol": "WTLOS",
       "name": "Wrapped TLOS",
       "coingeckoId": "telos",
+      "cmcSlug": "telos",
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
       "decimals": 18,
       "tags": []
@@ -30,6 +31,7 @@
       "symbol": "WTLOS",
       "name": "Wrapped TLOS",
       "coingeckoId": "telos",
+      "cmcSlug": "telos",
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
       "decimals": 18,
       "tags": []
@@ -40,6 +42,7 @@
       "symbol": "STLOS",
       "name": "Staked TLOS",
       "coingeckoId": false,
+      "cmcSlug": false,
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/stlos-logo.png",
       "decimals": 18,
       "tags": []
@@ -50,6 +53,7 @@
       "symbol": "STLOS",
       "name": "Staked TLOS",
       "coingeckoId": false,
+      "cmcSlug": false,
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/stlos-logo.png",
       "decimals": 18,
       "tags": []
@@ -58,8 +62,9 @@
       "chainId": 40,
       "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
       "symbol": "WBTC",
-      "coingeckoId": "bitcoin",
       "name": "Wrapped Bitcoin",
+      "coingeckoId": "bitcoin",
+      "cmcSlug": "bitcoin",
       "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png",
       "decimals": 8,
       "tags": []
@@ -70,6 +75,7 @@
       "symbol": "ETH",
       "name": "Ethereum",
       "coingeckoId": "ethereum",
+      "cmcSlug": "ethereum",
       "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
       "decimals": 18,
       "tags": []
@@ -80,6 +86,7 @@
       "symbol": "USDC",
       "name": "USD Coin",
       "coingeckoId" : "usd-coin",
+      "cmcSlug": "usd-coin",
       "decimals": 6,
       "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
       "tags": ["stablecoin"]
@@ -90,6 +97,7 @@
       "symbol": "USDT",
       "name": "Tether Stable Coin",
       "coingeckoId" : "tether",
+      "cmcSlug": "tether",
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
       "decimals": 6,
       "tags": ["stablecoin"]
@@ -100,6 +108,7 @@
       "symbol": "AVAX",
       "name": "Avalanche",
       "coingeckoId" : "avalanche",
+      "cmcSlug": "avalanche",
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
       "decimals": 18,
       "tags": []
@@ -110,6 +119,7 @@
       "symbol": "BNB",
       "name": "Binance Coin",
       "coingeckoId" : "binancecoin",
+      "cmcSlug": "bnb",
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
       "decimals": 18,
       "tags": []
@@ -120,6 +130,7 @@
       "symbol": "FTM",
       "name": "Fantom",
       "coingeckoId" : "fantom",
+      "cmcSlug": "fantom",
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png",
       "decimals": 18,
       "tags": []
@@ -130,6 +141,7 @@
       "symbol": "MATIC",
       "name": "Polygon",
       "coingeckoId": "matic-network",
+      "cmcSlug": "polygon",
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x885ca6663E1E19DAD31c1e08D9958a2b8F538D53/logo.png",
       "decimals": 18,
       "tags": []
@@ -140,6 +152,7 @@
       "symbol": "SUSHI",
       "name": "Sushi",
       "coingeckoId": "sushi",
+      "cmcSlug": "sushi",
       "logoURI": "https://cryptologos.cc/logos/sushiswap-sushi-logo.png",
       "decimals": 18,
       "tags": []
@@ -150,6 +163,7 @@
       "symbol": "ZAP",
       "name": "Zappy",
       "coingeckoId": false,
+      "cmcSlug": false,
       "logoURI": "https://raw.githubusercontent.com/zappy-finance/zappy-tokenlists/main/logos/0x9A271E3748F59222f5581BaE2540dAa5806b3F77/logo.png",
       "decimals": 18,
       "tags": ["telosevm"]
@@ -160,6 +174,7 @@
       "symbol": "CHARM",
       "name": "Omnidex",
       "coingeckoId": false,
+      "cmcSlug": false,
       "logoURI": "https://gateway.pinata.cloud/ipfs/QmUEJGwPMGBV154hcV8kp65a9TDM6XHJHTz5EFdfW3nDiq",
       "decimals": 18,
       "tags": ["telosevm"]
@@ -170,6 +185,7 @@
      "symbol": "KARMA",
      "name": "Charm Dojo",
      "coingeckoId": false,
+      "cmcSlug": false,
      "logoURI": "https://omnidex.finance/images/tokens/0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64.svg",
      "decimals": 18,
      "tags": ["telosevm"]
@@ -181,6 +197,7 @@
       "symbol": "DOUGE",
       "name": "DougeCoin",
       "coingeckoId": false,
+      "cmcSlug": false,
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -191,6 +208,7 @@
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/TelosMemeLogo.png",
       "name": "TM Coin",
       "coingeckoId": false,
+      "cmcSlug": false,
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -201,6 +219,7 @@
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/BabyEvilsLogo.png",
       "name": "BabyEvils",
       "coingeckoId": false,
+      "cmcSlug": false,
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -221,6 +240,7 @@
       "logoURI": "https://gateway.ipfs.io/ipfs/QmerrZ47zBxoQqkr4gfY53wvoAUqn3JXs6R6VCfE4s9nkK",
       "name": "Glue Dog",
       "coingeckoId": false,
+      "cmcSlug": false,
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -231,6 +251,7 @@
       "logoURI": "https://glue.dog/wp-content/uploads/2022/02/stabledog-768x630.png",
       "name": "Stabledog",
       "coingeckoId": false,
+      "cmcSlug": false,
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -241,6 +262,7 @@
       "logoURI": "https://gateway.ipfs.io/ipfs/QmPThPaz3kjWaLjDAZKP8frpzaVm5Rvi5wCcUbag8QhgRL",
       "name": "Big Pig",
       "coingeckoId": false,
+      "cmcSlug": false,
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -251,6 +273,7 @@
       "logoURI": "https://raw.githubusercontent.com/Geilogandet/token-list/cf290bf5297be0842ada7ad10f7f70bbaf718c05/Ploutus.png",
       "name": "Ploutus",
       "coingeckoId": false,
+      "cmcSlug": false,
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -261,6 +284,7 @@
       "logoURI": "https://omnidex.finance/images/tokens/0x2f15F85a6c346C0a2514Af70075259e503E7137B.svg",
       "name": "dummy☻DAO",
       "coingeckoId": false,
+      "cmcSlug": false,
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -271,6 +295,7 @@
       "logoURI": "https://gat.network/gat-logo-200x200.png",
       "name": "Game Ace Token Extended",
       "coingeckoId": false,
+      "cmcSlug": false,
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -281,6 +306,7 @@
       "logoURI": "https://apish.me/images/token.png",
       "name": "APISH ME",
       "coingeckoId": false,
+      "cmcSlug": false,
       "decimals": 9,
       "tags": ["telosevm"]
     },
@@ -291,6 +317,7 @@
       "logoURI": "https://3hlzh7.dstor.cloud/ipfs/QmbL7uYYp7sZ6URYua1RdWw6MPLR7jnZisMfLbPEhuurKw?filename=TSQRL.png",
       "name": "T-Squirrel",
       "coingeckoId": false,
+      "cmcSlug": false,
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -301,6 +328,7 @@
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
       "name": "ELK",
       "coingeckoId": "elk-finance",
+      "cmcSlug": "elk-finance",
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -311,6 +339,7 @@
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
       "name": "ELK",
       "coingeckoId": "elk-finance",
+      "cmcSlug": "elk-finance",
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -331,6 +360,7 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg",
       "name": "ApeSwap Finance Banana",
       "coingeckoId": "apeswap-finance",
+      "cmcSlug": "apeswap-finance",
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -341,6 +371,7 @@
       "logoURI": "https://365year.net/images/logo.png",
       "name": "Year 365",
       "coingeckoId": false,
+      "cmcSlug": false,
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -350,6 +381,7 @@
       "symbol": "Arc",
       "name": "Archly Arc",
       "coingeckoId": false,
+      "cmcSlug": false,
       "logoURI": "https://archly.fi/tokens/arc-logo.png",
       "decimals": 18,
       "tags": ["telosevm"]
@@ -361,6 +393,7 @@
       "logoURI": "https://365year.net/images/logoX.png",
       "name": "X365",
       "coingeckoId": false,
+      "cmcSlug": false,
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -370,6 +403,7 @@
       "symbol": "PE",
       "name": "Positron",
       "coingeckoId": false
+      "cmcSlug": false,
       "logoURI": "https://raw.githubusercontent.com/OmniDexFinance/tokenLogo/master/0xE56c325a68b489812081E8A7b60b4017fd2AD280.png",
       "decimals": 4,
       "tags": ["telosevm"]
@@ -380,6 +414,7 @@
       "symbol": "DECO",
       "name": "Destiny Coin",
       "coingeckoId": false,
+      "cmcSlug": false,
       "logoURI": "https://api.dstor.cloud/ipfs/QmVx1uSPTW7UQWGbz3ba5Nf7DPVyieEdRnQGHogo7t9Pw6",
       "decimals": 4,
       "tags": ["telosevm"]
@@ -390,6 +425,7 @@
        "symbol": "POPS",
        "name": "Swapsicle POPS",
        "coingeckoId": "swapsicle-pops",
+       "cmcSlug": "swapsicle",
        "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
        "decimals": 18,
        "tags": ["telosevm"]
